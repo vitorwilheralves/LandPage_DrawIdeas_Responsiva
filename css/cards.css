@@ -1,0 +1,70 @@
+/* Inicio do container cartão */
+/* .master-card {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+} */
+
+/* Inicio dos Cartoes */
+
+/* .card1 {
+    background: rgb(89, 151, 47);
+    width: 220px;
+    height: 140px;
+    border-radius: 20px 0;
+    transform: translateY(-70px) rotate(5deg);
+    margin-bottom: 25px;
+} */
+
+.card2 {
+    display: flex;
+    justify-content: center;
+    background: rgb(89, 151, 47);
+    width: 220px;
+    height: 140px;
+    border-radius: 20px 0;
+    transform: translateY(-70px);
+    margin-bottom: 25px;
+    margin-left: 100px;
+
+}
+
+/* Inicio dos conteudos */
+.card2 img {
+    position: absolute;
+    opacity: 0.1;
+}
+
+.card2 h3 {
+    position: absolute;
+    color: #fff;
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+
+.card2 p {
+    position: absolute;
+    color: #fff;
+    margin-top: 40px;
+    font-size: 1em;
+}
+
+.card2 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 90px;
+    background: #fff;
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 900;
+}
+
